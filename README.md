@@ -13,8 +13,6 @@ Here are some ideas to get you started:
   
 
 
-# 💫 About Me:
-👩‍🎓 Student at BRAC University<br>🌱 Currently exploring Python, Machine Learning, AI, CyberSecurity<br>👯 I’m looking to collaborate on Innovative tech projects<br>📫 How to reach me: Email: afifa.ahmed@g.bracu.ac.bd LinkedIn: https://ww
 
 
 ## 🌐 Socials:
