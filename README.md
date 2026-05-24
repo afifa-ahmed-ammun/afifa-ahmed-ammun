@@ -1,7 +1,7 @@
 ### Hi , I'm Afifa!!
 
 - 👩‍🎓 Student at BRAC University
-- 🌱 Currently exploring Python, Machine Learning, AI, CyberSecurity
+- 🌱 Currently exploring 
 - 👯 I’m looking to collaborate on Innovative tech projects
 - 📫 How to reach me: Email: afifa.ahmed@g.bracu.ac.bd
                       LinkedIn: https://www.linkedin.com/in/afifa-ahmed-5a7b8b321/
